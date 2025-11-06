@@ -1,6 +1,3 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
-
-
 # Forescribe — Frontend Assignment (Next.js + TypeScript + Tailwind)
 
 
@@ -23,6 +20,7 @@ An implementation of the provided Figma screen using **Next.js (App Router)**, *
 
 First, run the development server:
 
+```bash
 # 1) Install deps
 npm install
 
@@ -48,8 +46,6 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 ![App Screenshot](./public/screenshot.png)
 
 
-## Deploy on Vercel
+🔗 Submission
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+Live Demo: https://forescribe-frontend-git-main-joshua-ss-projects-6ab2360a.vercel.app?_vercel_share=dSEFZpbKqGkYa65lSOADM39qnFbqOnEj
