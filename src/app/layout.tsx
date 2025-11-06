@@ -27,7 +27,7 @@ export default function RootLayout({
             opacity: 1,
           }}
         />
-        {/* 🔹 Top-left Logo */}
+        {/* Top-left Logo */}
         <header className="absolute top-10 left-28 z-40">
           <div className="flex items-center gap-3">
             <img
@@ -39,7 +39,7 @@ export default function RootLayout({
         </header>
 
         <div className="background-blur-overlay" aria-hidden="true" />
-        {/* 🌐 Page Content */}
+        {/* Page Content */}
         <main className="relative z-30 flex items-center justify-center min-h-screen">
           {children}
         </main>

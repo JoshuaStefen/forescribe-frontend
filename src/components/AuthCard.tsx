@@ -74,9 +74,8 @@ export default function AuthCard() {
           </div>{" "}
         </div>{" "}
       </motion.div>{" "}
-      {/* Terms & Conditions notice OUTSIDE the glass card */}
+      {/* Terms & Conditions outside of glass card */}
       <p className="text-xs text-white mt-[-4] w-[420px] leading-6 text-center">
-        
         By clicking “Continue with Google/Microsoft” above, you acknowledge that
         you have read and understood, and agree to Forescribe's{" "}
         <a

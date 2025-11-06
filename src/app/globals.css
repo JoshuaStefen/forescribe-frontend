@@ -17,14 +17,8 @@ body {
   @apply bg-black text-white antialiased;
 }
 
-/* translucent card */
 .translucent-card {
-  background: rgba(
-    0,
-    0,
-    0,
-    0.45
-  ); /* deeper opacity so background is softened */
+  background: rgba(0, 0, 0, 0.45);
   backdrop-filter: blur(10px);
   -webkit-backdrop-filter: blur(20px);
   border-radius: 18px;
@@ -36,7 +30,6 @@ body {
   position: relative;
   z-index: 50;
 }
-
 
 .background-svg {
   position: absolute;
@@ -65,23 +58,21 @@ body {
   position: absolute;
   inset: 0;
   z-index: 20;
-  backdrop-filter: blur(25px); /* Adjust blur intensity */
+  backdrop-filter: blur(25px);
   -webkit-backdrop-filter: blur(25px);
   pointer-events: none;
-  clip-path: inset(30% 33% 37% 33% round 25px); /* 🧠 Focus blur behind center card area */
+  clip-path: inset(30% 33% 37% 33% round 25px);
   opacity: 0.9;
 }
 
-/* overlay which sits exactly behind the card */
 .card-local-blur {
   box-shadow: 0 18px 50px rgba(0, 0, 0, 0.1);
-  border-radius: 18px; /* default — overwritten inline if computed */
+  border-radius: 18px;
   border: 1px solid rgba(255, 255, 255, 0.03);
   mix-blend-mode: normal;
   pointer-events: none;
   will-change: transform, width, height, left, top;
 }
-
 
 nav {
   transition: all 0.4s ease;

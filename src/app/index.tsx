@@ -17,7 +17,8 @@ export default function Home() {
           Continue with Microsoft
         </button>
         <p className="mt-4 text-sm text-gray-400">
-          By clicking “Continue”, you acknowledge that you agree to our Terms & Conditions and Privacy Policy.
+          By clicking “Continue”, you acknowledge that you agree to our Terms &
+          Conditions and Privacy Policy.
         </p>
       </motion.div>
     </main>
