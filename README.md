@@ -20,7 +20,6 @@ An implementation of the provided Figma screen using **Next.js (App Router)**, *
 
 First, run the development server:
 
-```bash
 # 1) Install deps
 npm install
 
