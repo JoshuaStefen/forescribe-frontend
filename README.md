@@ -48,4 +48,6 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 🔗 Submission
 
-Live Demo: https://forescribe-frontend-git-main-joshua-ss-projects-6ab2360a.vercel.app?_vercel_share=dSEFZpbKqGkYa65lSOADM39qnFbqOnEj
+GitHub Repo: https://github.com/JoshuaStefen/forescribe-frontend
+
+Live Demo on Vercel: https://forescribe-frontend-git-main-joshua-ss-projects-6ab2360a.vercel.app?_vercel_share=dSEFZpbKqGkYa65lSOADM39qnFbqOnEj
