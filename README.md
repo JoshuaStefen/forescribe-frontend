@@ -43,9 +43,9 @@ npm run build && npm run start
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
 
-📸 Screenshots
+📸 Screenshot
 
-Added a screenshot in public/ and reference them here.
+![App Screenshot](./public/screenshot.png)
 
 
 ## Deploy on Vercel
